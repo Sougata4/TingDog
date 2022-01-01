@@ -1,2 +1,2 @@
-# TingDog
-Find a love for your dog
+TinDog Starting Files
+increase specificity if the CSS does not work.
